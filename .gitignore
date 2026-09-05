@@ -110,3 +110,4 @@ desktop.ini
 # Personal scratch notebooks
 /Untitled.ipynb
 /notebooks/Untitled.ipynb
+migrate_local_to_aiven.py

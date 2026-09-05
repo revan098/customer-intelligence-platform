@@ -1,1 +1,13 @@
-pytest
+﻿streamlit
+pandas
+numpy
+sqlalchemy
+pymysql
+cryptography
+python-dotenv
+scikit-learn
+xgboost
+shap
+google-genai
+openpyxl
+plotly
