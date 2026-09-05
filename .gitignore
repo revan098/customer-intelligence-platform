@@ -111,3 +111,4 @@ desktop.ini
 /Untitled.ipynb
 /notebooks/Untitled.ipynb
 migrate_local_to_aiven.py
+!models/churn_xgb_pipeline.joblib
